@@ -1,0 +1,1 @@
+Through this application, a user can scan the barcode of a product using his mobile phone, enter its information and add it to a virtual shopping cart. From this cart the user can see all the information of all the products he has purchased.
