@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BestBeforeApp</string>
+    <string-array name="items">
+        <item>Φρούτα</item>
+        <item>Κατεψηγμένα</item>
+        <item>Γαλακτοκομικά</item>
+        <item>Οσπρια</item>
+        <item>Αλλαντικά</item>
+        <item>Αναψυκτικά</item>
+        <item>Κρεατικά</item>
+        <item>Ζυμαρικά</item>
+        <item>Διάφορα</item>
+    </string-array>
+
+    <string-array name="sort">
+        <item>Κατηγορία</item>
+        <item>Όνομα</item>
+        <item>Ημ/νία Λήξης</item>
+    </string-array>
+</resources>
